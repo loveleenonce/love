@@ -1,5 +1,19 @@
-.fun
-{
+h1{
     color:red;
-    font-size:70px;
+}
+h2{
+    color:rgb(56, 121, 158);
+
+}
+h3{
+    color:rgb(201, 105, 121);
+}
+h4{
+    color:grey;
+}
+h5{
+    color:brown;
+}
+h6{
+    color:chocolate;
 }
